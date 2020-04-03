@@ -1,6 +1,7 @@
 # COSC1078_Assignment2_I-Team
 GitHub repo for my assignment team
 
+
        ///TEAM///
 Team Leader
 Richard
@@ -12,10 +13,11 @@ Lei
 Wen
 Timothy
 
+
+        ///TASKS///
 Team Profile
 Wen
 
-        ///TASKS///
 Tools
 Richard
 
