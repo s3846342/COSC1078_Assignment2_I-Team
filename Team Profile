@@ -1,0 +1,158 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <meta charset="utf-8">
+    
+    <title>My COSC1078 Home Page</title>
+
+
+    
+</head>
+<body>
+
+ <h1>Team Profile</h1>
+   
+   
+<h1>Personal profile</h1>
+    <div> <img src="./pic/muggy.jpg" alt="Italian Trulli"  ></div>
+    <p>Hello! I'm Richard Forsey, and my student number is 3857811.I'm an Australian born and raised in Melbourne who has also spent three years living overseas in Saint Petersburg, Russia. When I left high school, I had the belief that I wanted to become a scientist specializing in the areas of nanotechnology and biotechnology. However, my first discovery as a scientist, during my honors year, was that the reality of being a scientist did not match at all what I had imagined. Afterwards, a friend suggested that I do a CELTA (a certificate of teaching English as a second language). After some consideration I decided to do it and the first chosen destination was Russia. I had intended to stay there for only one year or so, but I ended up staying for the full three years I had planned to teach overseas. After a year of working in the ESL industry in Melbourne, I decided a change of career was very much needed.
+  						
+</p>
+    
+<h1>Test outcome</h1>
+    <ul>
+  <li>Myers-Briggs: ENFJ-T, a "protagonist"	</li>
+    <br>
+  <li>Learning Style:
+
+Auditory: 30%,
+Visual:40%,
+Tactile: 30%</li>
+    <br>
+  <li>Big Five Personality: Empathic Idealist</li>
+</ul>
+
+    
+   
+ <h1>Ideal job </h1>
+    <p>I think my ideal job would be a Software Developer.This position is the role of software developer at an ISP company. I would be tasked with improving the business process via automation, solving complex tasks and problems with a variety of solutions and building new tools, apps and technologies. This role especially appeals to me as I like to solve problems and being a subject matter expert.
+This role would requite programming and development skills with a focus on the language PHP, web development technologies such as HTML5/CSS3/JavaScript, knowledge of database concepts and application. It would be best to have a computer science degree or a programming-oriented IT degree. Experience in all the aforementioned would be highly desirable.
+</p>
+    
+    <h1>Personal Profile</h1>
+    <div> <img src="./pic/WechatIMG64.jpeg" alt="Italian Trulli" height="auto" width="200px" ></div>
+    <p>Hello, my name is Timothy Pan(s3846342),my email is s3846342@student.rmit.edu.au.I was born in New Zealand. When I was 4 years old, my parents and I returned to China and settled in China. When I was 16, I came to Australia and started my high school life. Because my parents are all Chinese, therefore I also speak Chinese at home. My family member also has a lovely pug. His name is Bruce. My favourite thing every day is to play in the backyard with Bruce. He is a very lovely Pug and of course Bruce snores when he sleeps.
+</p>
+    <h1>Test outcome</h1>
+    <ul>
+        <li>Myers-Briggs: ISTJ-T,a “Logistician”</li>
+        <br/>
+        <li>Learning Style:
+
+Auditory: 60%,
+Visual:25%,
+Tactile: 15%
+</li>
+<br/>
+<li>Truity: INTP - The Architect</li>
+    </ul>
+    
+    <h1>Ideal job</h1>
+    <p>I am very looking forward to becoming an IT teacher. I am a very helpful and articulate person, and I also like children very much. So I think being a teacher is a very suitable job for me. Of course, to be a teacher, you need to have good English and strong logic, work in a very orderly way, and also need to test a teacher's qualification certificate and proof that you can work with children. For me now, my English still has room for improvement, and I need a lot of IT knowledge to teach others. To get this job, first of all, I need to learn it knowledge. Second, I need to improve my English. I need to be patient with anyone and try my best to help those who have difficulties in learning.
+</p>
+
+    <h1>Personal information</h1>
+    <div> <img src="./pic/professionalPhoto.png" alt="Italian Trulli"  height="auto" width="200px" ></div>
+    <p>Hi this is Jai Wells, and my student number is S3785420.I was born here in Victoria in the year 2000. I attended McClelland Secondary College in Frankston, graduating in 2018. While at McClelland, I studied software development, business management, legal studies, further maths and philosophy. During my junior years at McClelland I also studied Japanese... but I don't remember much of it anymore. My main hobby is custom PC building, particularly small form factor PCs. This is my current PC featuring a Ryzen 7 3700x CPU and a GTX 1070 GPU, paired with 32GB DDR4 RAM and 1.5TB of SSD storage. My case is a Nouvolo Steck which is 8.7L in volume, most full size PC cases are about 40L.I've also been getting into reading recently. One of my favourite books at the moment is The Martian by Andy Weir (Adapted into a movie staring Matt Damon, both the book and movie are really good.)
+</p>
+    
+    <h1> Test outcome</h1>
+    <ul>
+        <li>Truity:INTJ - The Mastermind</li>
+        <br/>
+        <li>Learning Style:
+
+Auditory: 30%,
+Visual:35%,
+Tactile: 35%
+</li>
+        <br/>
+        <li>Big Five Personality:
+
+Openness:69%,
+Conscientiousness:44%,
+Extraversion:10%,
+Agreeableness:50%,
+Neuroticism:37.5%
+</li>
+    </ul>
+    <p>My introversion means I will be a strong independent learner and once set to a task I should be able to go and do it without further input. I may struggle to express my opinions when required. My empathy means I can look for signs of stress among the team and try to help out. My self discipline should help me avoid falling behind the pace of my team. Strong problem solving skills mean I can provide input to my teammates and perhaps solve some of their problems using my fresh pair of eyes.
+</p>
+    
+    <h1>Ideal job</h1>
+    <p>My ideal IT job is a graduate software engineer at Leidos Australia Pty Ltd.This job is a graduate position as a software engineer working on government inteligence projects including the Department of Defence and the Australian Taxation Office. This job will involve communicating with users to determine and document their needs needs goals limitations and any issues they may have; develop project requirements into database structures; working on individual and group activities using version control systems (eg. Git); problem solving is also a part of the position, eg. debugging code and developing documentation to meet users needs; I would also be expected to undertake independent learning to further my skills in software development, potentially by reviewing language documentation and reading programming books.
+This position is appealing to me as they are open to inexperienced employees and will give them a go, give them the necessary skills and experience for a fruitful career in IT and offer a proper position at the end of a 12 month graduate program based on their strengths and the needs of the organisation.
+</p>
+    
+    <h1>Personal information</h1>
+    <div> <img src="./pic/WechatIMG3%201.jpeg" alt="Italian Trulli" height="auto" width="200px" ></div>
+    <p>Hi this is Guanhong Chen, and my student number is s3777912.</p>
+    
+    <h1>Test outcome</h1>
+    <ul>
+        <li>Myers-Briggs: Entrepreneur (ESTP) Personality </li>
+        <br/>
+        <li>Learning Style:
+
+Auditory: 40%,
+Visual:25%,
+Tactile: 35%
+</li>
+        <br/>
+        <li>Big Five Personality:
+
+Openness:94%,
+Conscientiousness:65%,
+Extraversion:58%,
+Agreeableness:69%.
+Neuroticism:46%
+</li>
+    </ul>
+    
+   <h1>Ideal job</h1>
+    <p>My ideal job is to be a network and security engineer. When I saw hackers in movies breaking through the firewall of the pentagon in a matter of minutes, I realized I wanted to be that guy.The work was exciting. I needed to build and maintain network firewalls and other network equipment, and help the company defend against foreign invasion through what I learned. I can't wait! The position of network security engineer requires Cisco ISE or ASA and Substantial experience supporting complex Networking Infrastructure, 5 years is essential. At present, I don't have any relevant knowledge and experience, but I think I will learn relevant knowledge in the next two years, and I will make efforts for this. Now I am studying Java language and HTML, but these are not related to network security. I think I should take a course in network security and try to find an internship to accumulate experience and learn from practice. The most important thing is that I need to get relevant certificates. In the future, I think I may need to learn some extra knowledge that I can't learn in school to enrich myself.
+</p>
+    
+    <h1>Personal information</h1>
+    <div> <img src="./pic/IMG_6686.JPG" alt="Italian Trulli" height="auto" width="200px" ></div>
+    <p>My name is Wen Guo and I also prefer to be called Lucy as well. My student number is s3723037 and my student email is s3723027@student.rmit.edu.au. I was born and grew up in China. In September 2011, my family migrated to Australia, after six months studying at Glen Eira English Language center. I studied at Glen Eira College and graduated from It. During my spare time, I like to read comics ,listen to music, and stay with my friends to release stress.</p>
+    
+    <h1>Test outcome</h1>
+    <ul>
+        <li>Myers-Briggs: Adventurer ISFP- A Personality </li>
+        <br/>
+        <li>Learning Style:
+
+Auditory: 45%,
+Visual:30%,
+Tactile: 25%
+</li>
+        <br/>
+        <li>Big Five Personality test
+
+Openness:80%,
+Conscientiousness:44%,
+Extraversion:45%,
+Agreeableness:50%,
+Neuroticism:37.5%
+</li>
+    </ul>
+    <p>The result from Myer-Briggs test indicates my personality type is “Adventurer” which is very high in Imaginative, feeling, Sensitive to Others, Passionate, and Curious. Hence, I can easily relate to others’ emotions, which I am capable of getting well with my team members, helping them to establish harmony and goodwill, and minimize conflict. At the same time, work hard to finish my task and also respect and care for my colleagues. I also have weaknesses, which are Easily Stressed and lack of long term plans. That means sometimes I may rely on my team leader too much, so I have to become more independent and learn to relieve stress. The learning style test suggests that I am an auditory which I usually learn from hearing and listening, thus, I might be very good at listening to clients' needs and implement it correctly. I may also be good at listening to my team members’ ideas and respect them. But the result points out that I may not be willing to talk much, so I do need a team member that is willing to do the talking part. The result from the big five personality shows that I am high in openness, high in conscientiousness, high in extraversion, high in agreeableness but low in neuroticism. Therefore, I am a person tendency to think in a complex, creative way and I am able to self-discipline in order to pursue my goals. I am a caring person who will always consider others' needs. However, I could be sensitive sometimes, so it would be better for me to work with someone that is open-minded and respects others opinions.
+</p>
+    <h1> Ideal job</h1>
+    <p>A junior website or application developer would be ideal for my first full time job to start with, as it does not require much experience. Meanwhile, I can learn new skills and gain more experiences through this job. In this position, I need to work in a team to design and execute websites or mobile applications by using different technologies. My role in this job is to assist in developing technical solution to meet clients requirement, effectively manage the relationship with clients as well as a colleague and make sure to communicate with clients at all stages, help improve code to its maximum speed and scalability and it is important to make sure the accuracy and the quality of the finished product. Another appealing part is its permanent position, which means it provides long-term stability and there is possible career advancement in the future. Moreover, through this job, I am able to have experience in HTML, CSS, JavaScript, REST APIs,Basic PHP and so on. However, the most appealing part is still the job itself, as I am passionate about this area and willing to explore it in depth.
+</p>
+    
+
+</body>
+    
+</html>
