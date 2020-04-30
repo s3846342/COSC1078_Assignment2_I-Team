@@ -1,0 +1,67 @@
+<body> 
+ 
+ <h1>Industry Data</h1>
+
+    
+<h2>Richard :Software Developer </h2>
+   
+<h3>Skill :</h3>
+    <ul>
+        <li>programming and development skills : PHP, web development technologies such as HTML5/CSS3/JavaScript, knowledge of database concepts and application.	</li>
+        <li>Mathematical aptitude</li>
+        <li>Problem-solving skills</li>
+        <li>Excellent organisational and time management skills</li>
+        <li>Accuracy and attention to detail</li>
+        <li>An understanding of the latest trends and their role in a commercial environment</li>
+        <li>hands-on ability: office, Photoshop, 3D max, C++ and so on, some need to be proficient, some need to understand, some need to use.</li>
+        <li>communication skills: good communication skills, coordination between planning, art and program.</li>
+        <li>Teamwork skills</li>
+        <li>Self-development skills to keep up to date with fast-changing trends</li>
+    </ul>
+    
+
+ <h2>Timothy: IT teacher</h2>
+    <h3>Skill: </h3>
+    <ul>
+        <li>Lesson planning</li>
+        <li>Information delivery </li>
+        <li>Applying education practices in a classroom environment</li>
+        <li>Parent-teacher communication </li>
+        <li>Data recording and distribution</li>
+        <li>familiarity with project management, customer management, web platform development software, and server operating systems
+capable</li>
+        <li>capable of using computer equipment such as servers and network analyzers</li>
+</ul>
+    
+    <h2>Jai: software engineer</h2>
+        <h3>Skill: </h3>
+<ul>
+    <li>Strong skills and interest in in Java, Javascript and Python </li>
+    <li>Understanding of Configuration Management Tools such as version control (git), build environment management and defect tracking; Software Management Tools; Continuous Integration Tools and Data Management </li>
+    <li>Strong team and independent working and learning skills </li>
+    <li>Collaborative skills used toward building a 'productive team environment'</li>
+    </ul>
+    
+    <h2>Guanhong : network and security engineer</h2>
+    <h3>Skill: </h3>
+      
+      <ul>
+    <li>skills in intrusion detection, firewalls, threat modeling, and ethical hacking. Other specific hard skills include network architectures, protocols, routing, and access controllers.</li>
+    <li>major operating systems, such as Linux, UNIX, and Windows, and major database platforms like MySQL and MSSQL.</li>
+    <li>security systems infrastructure, audit functions, and encryption tools. </li>
+    <li>perform computer forensics work, virus and phishing attempt detection and prevention, and security compliance.</li>
+    </ul>
+      
+    <h2>Wen :junior website or application developer</h2>
+       <h3>Skill: </h3>
+      <ul>
+          <li>Fluency working with HTML, CSS, javascript</li>
+          <li>Strong knowledge of PHP development</li>
+          <li>Exposure to commonly used SQL queries </li>
+          <li>Workable knowledge of common Git commands. </li>
+          <li>Server architecture</li>
+          <li>Basic knowledge of Search Engine Optimisation</li>
+          <li>Ability to multitask with strict time constraints, budgets and business goals</li>
+          <li>Strong communication skills</li>
+      </ul>
+</body>
